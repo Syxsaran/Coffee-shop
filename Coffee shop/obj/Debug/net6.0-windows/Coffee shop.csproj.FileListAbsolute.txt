@@ -1,0 +1,19 @@
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\bin\Debug\net6.0-windows\Coffee shop.exe
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\bin\Debug\net6.0-windows\Coffee shop.deps.json
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\bin\Debug\net6.0-windows\Coffee shop.runtimeconfig.json
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\bin\Debug\net6.0-windows\Coffee shop.dll
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\bin\Debug\net6.0-windows\ref\Coffee shop.dll
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\bin\Debug\net6.0-windows\Coffee shop.pdb
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\obj\Debug\net6.0-windows\Coffee_shop.Form1.resources
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\obj\Debug\net6.0-windows\Coffee_shop.Properties.Resources.resources
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\obj\Debug\net6.0-windows\Coffee shop.csproj.GenerateResource.cache
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\obj\Debug\net6.0-windows\Coffee shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\obj\Debug\net6.0-windows\Coffee shop.AssemblyInfoInputs.cache
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\obj\Debug\net6.0-windows\Coffee shop.AssemblyInfo.cs
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\obj\Debug\net6.0-windows\Coffee shop.csproj.CoreCompileInputs.cache
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\obj\Debug\net6.0-windows\Coffee shop.dll
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\obj\Debug\net6.0-windows\ref\Coffee shop.dll
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\obj\Debug\net6.0-windows\Coffee shop.pdb
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\obj\Debug\net6.0-windows\Coffee shop.genruntimeconfig.cache
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\obj\Debug\net6.0-windows\Coffee shop.csproj.AssemblyReference.cache
+C:\Users\saran\source\repos\Coffee shop\Coffee shop\obj\Debug\net6.0-windows\Coffee_shop.Form2.resources
